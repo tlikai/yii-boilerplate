@@ -1,0 +1,17 @@
+{
+    "config": {
+        "vendor-dir": "common/vendors"
+    },
+    "require": {
+        "yiisoft/yii": "dev-master",
+        "likai/yii-restful": "dev-master"
+    },
+    "require-dev": {
+        "likai/yii-webserver": "dev-master"
+    },
+    "autoload": {
+        "files": [
+            "common/exceptions.php"
+        ]
+    }
+}

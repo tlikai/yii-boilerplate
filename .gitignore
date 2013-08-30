@@ -1,0 +1,8 @@
+.tags
+.ctags
+.DS_Store
+Thumbs.db
+
+/common/vendors/*
+composer.phar
+composer.lock
